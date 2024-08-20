@@ -1,0 +1,6 @@
+framework module FSTT {
+  umbrella header "FSTT.h"
+  export *
+
+  module * { export * }
+}
